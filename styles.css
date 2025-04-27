@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px 20px;
+    margin: 0;
+}
+
+.message {
+    margin-top: 30px;
+    color: #333;
+}
+
+a {
+    color: #00A651;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
